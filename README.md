@@ -1,2 +1,1 @@
-# PCA-matrix-completion-on-Netflix-data-set
-Used principal component analysis matrix completion algorithm on the sparse "Netflix" dataset
+In my final assignment for my "Math for Data Science" class, I was tasked with implementing the principal component analysis matrix completion algorithm on the "Netflix" dataset. This algorithm takes advantage of the correlations between features to predict the missing entries in the dataset. What is interesting abou the dataset is that it is sparse, so the algorithm is quite impressive.
